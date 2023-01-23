@@ -1,0 +1,15 @@
+What is a directory, and what is its relationship to files?
+	A directory is a file path containing of folders. These are heirarchical 
+	and must be accessed as such. In Windows, directory names are not case
+	sensitive. Directories contain files of various types; text, image, music, 
+	html, scripts, and more.
+
+How are VCS useful?
+	Version control is very helpful as it can allow for collaboration on projects
+	with a group/team. Furthermore, if a teammate pushes and merges code that
+	breaks the previous main/master code, git and many other version controls 
+	allow users to revert back to the working code (or any other previous version). 
+
+Do you have a favorite artistic medium? Why is it your favorite?
+	I don't have a favorite artistic medium. All art has the potential 
+	to be unique or very dull regardless of the medium at hand.
