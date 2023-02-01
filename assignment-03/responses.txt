@@ -1,0 +1,10 @@
+What is the relationship between an IP address and the DNS?
+	An IP address is like your home address or a website's "home" address. All devices have different IP addresses and different portions of the IP address stand for the object/site's country/network, region/network, subnetwork, and device. 
+	The DNS, or Domain Name Service, associates sites with IP addressses. It translates the domain name to the IP address. It's like the "name" of the address where the IP address is the "physical" address. 
+
+What is a cookie?
+	A cookie is what websites use to remember you. This is stored on your computer. Many sites have ways to minimize the number of cookies you give. If you scroll down to the middle of the page, leave, and come back to the middle of the page, the site tracked you with cookies. 
+
+What are the three essential parts of a URL?
+	https://          site_name.com         /folder/folder/file	
+	Scheme/protocol   host/domain		Path
