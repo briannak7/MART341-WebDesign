@@ -6,6 +6,6 @@ I have learned how to make items **bold** or *itallic* in markdown files, along 
 
 Lastly, I have learned that the internet was initially created to survive a nuclear explosion in the 70s. 
 
-Relative URL for responses.txt: */responses.txt*
+Relative URL for responses.txt: [*/responses.txt*](/responses.txt)
 
-Relative URL for the image: */images/assignment-03-image*
+Relative URL for the image: [*/images/assignment-03-image*](/images/assignment-03-image)
