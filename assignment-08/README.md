@@ -12,4 +12,4 @@ I struggled with getting the videos on the page. I forgot that YouTube has the o
 
 **Link to my screenshot:**
 
-[*/images/assignment-08*](https://github.com/briannak7/MART341-WebDesign/blob/main/assignment-07/images/assignment-08.JPG)
+[*/images/assignment-08*](https://github.com/briannak7/MART341-WebDesign/blob/main/assignment-08/images/assignment-08.JPG)
